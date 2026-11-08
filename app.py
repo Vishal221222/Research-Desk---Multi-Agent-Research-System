@@ -1,8 +1,3 @@
-"""Simple Streamlit interface for the existing four-agent research pipeline.
-
-Run from your project directory with: streamlit run app.py
-"""
-
 import traceback
 
 import streamlit as st
