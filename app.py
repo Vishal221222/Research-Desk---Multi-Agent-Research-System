@@ -11,8 +11,6 @@ st.set_page_config(
     layout="centered",
 )
 
-# Minimal styling: standard website layout, no gradients or AI-style decorations.
-
 st.markdown("""
 <style>
 
